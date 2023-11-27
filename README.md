@@ -1,2 +1,2 @@
-# deploy-pap-smear-
+# deploy-pap-smear
 Aplikasi Pap smear 
