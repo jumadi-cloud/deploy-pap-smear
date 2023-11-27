@@ -1,0 +1,4 @@
+0 Sel-Normal
+1 L-Sil
+2 H-Sil
+3 Sel-Koilocyt
